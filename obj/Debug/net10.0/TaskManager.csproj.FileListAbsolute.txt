@@ -1,0 +1,14 @@
+/Users/ravisolanki/Code/dotnetdev/TaskManager/bin/Debug/net10.0/TaskManager
+/Users/ravisolanki/Code/dotnetdev/TaskManager/bin/Debug/net10.0/TaskManager.deps.json
+/Users/ravisolanki/Code/dotnetdev/TaskManager/bin/Debug/net10.0/TaskManager.runtimeconfig.json
+/Users/ravisolanki/Code/dotnetdev/TaskManager/bin/Debug/net10.0/TaskManager.dll
+/Users/ravisolanki/Code/dotnetdev/TaskManager/bin/Debug/net10.0/TaskManager.pdb
+/Users/ravisolanki/Code/dotnetdev/TaskManager/obj/Debug/net10.0/TaskManager.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ravisolanki/Code/dotnetdev/TaskManager/obj/Debug/net10.0/TaskManager.AssemblyInfoInputs.cache
+/Users/ravisolanki/Code/dotnetdev/TaskManager/obj/Debug/net10.0/TaskManager.AssemblyInfo.cs
+/Users/ravisolanki/Code/dotnetdev/TaskManager/obj/Debug/net10.0/TaskManager.csproj.CoreCompileInputs.cache
+/Users/ravisolanki/Code/dotnetdev/TaskManager/obj/Debug/net10.0/TaskManager.dll
+/Users/ravisolanki/Code/dotnetdev/TaskManager/obj/Debug/net10.0/refint/TaskManager.dll
+/Users/ravisolanki/Code/dotnetdev/TaskManager/obj/Debug/net10.0/TaskManager.pdb
+/Users/ravisolanki/Code/dotnetdev/TaskManager/obj/Debug/net10.0/TaskManager.genruntimeconfig.cache
+/Users/ravisolanki/Code/dotnetdev/TaskManager/obj/Debug/net10.0/ref/TaskManager.dll
