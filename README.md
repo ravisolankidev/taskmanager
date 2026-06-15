@@ -18,10 +18,14 @@ my transition from PHP/Laravel to .NET/C# development.
 - System.Text.Json
 
 ## Running Locally
+```bash
 git clone https://github.com/ravisolankidev/taskmanager
 cd TaskManager
 dotnet run
+```
 
 ## Running Tests
+```bash
 cd TaskManager.Tests
 dotnet test
+```
